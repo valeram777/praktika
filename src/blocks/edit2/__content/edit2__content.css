@@ -1,0 +1,22 @@
+.edit2__content {
+    /*width: auto;
+    height: auto;*/
+    width: 450px;
+    height: 561px;
+    background-color: #fff;
+    border-radius: 0px;
+    position: relative;
+    box-sizing: border-box;
+    /* padding: 34px 36px;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*
+@media screen and (max-width: 540px) {
+    .edit2__content {
+        width: calc(100% - 60px);
+    }
+}*/
