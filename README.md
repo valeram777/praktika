@@ -9,4 +9,4 @@ _____________________
  - Настроено два режима сборки: development и production
  - Код разбит на модули.
  _________________
- Ссылка на проек: https://valeram777.github.io/practika11/
+ Ссылка на проек: https://valeram777.github.io/praktika/
