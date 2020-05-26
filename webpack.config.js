@@ -60,6 +60,7 @@ module.exports = {
         }),
         new HtmlWebpackPlugin({
             // Означает, что:
+            inject: false,
             template: './src/index.html', // откуда брать образец для сравнения с текущим видом проекта
             filename: 'index.html' // имя выходного файла, то есть того, что окажется в папке dist после сборки
         }),
