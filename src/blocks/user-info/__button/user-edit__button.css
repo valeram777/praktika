@@ -1,0 +1,23 @@
+.user-edit__button {
+    margin-top: 24px;
+    width: 38px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 15px;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    display: inline-block;
+}
+
+.user-edit__button:hover {
+    background-color: #FFFFFF;
+    color: black;
+}
+
+@media screen and (max-width: 980px) {
+    .user-edit__button {
+        width: 38px;
+        height: 18px;
+    }
+}
